@@ -72,7 +72,8 @@ nav ul li a:hover{
 
 }
 .logo span{
-    color: #2d9582;
+    /* color: #2d9582; */
+    color: red;
 }
 main{
     width: 100%;
@@ -114,7 +115,8 @@ main{
     margin: 0px 0px 20px;
 }
 .hero-text h1 span{
-    color: #2d9582;
+    /* color: #2d9582; */
+    color: red;
 }
 
 .hero-text p{
@@ -173,7 +175,7 @@ main{
 }
 
 .about a{
-    color: #2d9582;
+    color: red;
 }
 
 
@@ -190,7 +192,7 @@ main{
 }
 .about p span{
     font-weight: 550;
-    color: #2d9582;
+    color: red;
 }
 
 .pic1 img{
@@ -355,7 +357,7 @@ main{
 }
 
 .connect form button{
-    background-color: #fc0050;
+    background-color: red;
     padding: 17px;
     color: white;
     font-size: 20px;
@@ -369,7 +371,7 @@ main{
 .connect form button:hover{
     transform: scale(1.1);
     background-color: transparent;
-    border: 2px solid #fc0050;
+    border: 2px solid red;
 }
 
 #msg{
@@ -397,7 +399,7 @@ footer p{
     font-weight: 200;
 }
 footer i{
-    color: #fc0050;
+    color: red;
 }
 @keyframes html{
     0%{
